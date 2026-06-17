@@ -1,5 +1,3 @@
 # COOKIN
 
 link vercel: [cookin-xi.vercel.app](https://cookin-xi.vercel.app/)
-
-link video: https://youtu.be/WZD5paQfDkI
